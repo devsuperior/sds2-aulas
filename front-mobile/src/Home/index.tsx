@@ -34,7 +34,7 @@ function Home() {
 
 const styles = StyleSheet.create({
   container: {
-    marginTop: '15%',
+    marginTop: '5%',
     alignItems: 'center'
   },
   title: {
@@ -53,7 +53,7 @@ const styles = StyleSheet.create({
     textAlign: 'center'
   },
   footer: {
-    marginTop: '15%',
+    marginTop: '5%',
     alignItems: 'center'
   },
   button: {
